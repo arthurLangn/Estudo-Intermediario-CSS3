@@ -1,0 +1,48 @@
+/* 
+Modelo de caixa
+*/
+
+/*
+
+.conteudo {
+	border: 1px solid red;
+
+	Ordem do padding
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+
+	padding: 20px 15px 10px 5px;
+	padding: 20px;
+
+	Ordem do marding
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin: 10px;
+
+	Margind colapse é quando uma box tem margin superior a outra, fazendo com que
+	a menor seja "anulada" e considere somente a maior
+
+	width: 150px;
+}
+
+.conteudo2 {
+	border: 1px solid red;
+	padding: 20px;
+	margin: 50px;
+	width: 150px;
+}
+*/
+
+#noticia {
+	background: #f9f9f9;
+	border: 1px solid red;
+	padding: 10px;
+}
+
+h2 {
+	margin: 0px;
+}
